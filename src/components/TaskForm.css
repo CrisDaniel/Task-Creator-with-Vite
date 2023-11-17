@@ -1,0 +1,12 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+textarea{
+    margin: 1rem 0;
+    border: none;
+    padding: 0.5rem;
+    text-decoration: none;
+    resize: none;
+}
